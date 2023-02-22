@@ -3,3 +3,8 @@ p{
     text-align: center;
    
 }
+.footer {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
